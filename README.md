@@ -1,1 +1,4 @@
 # dadishu
+The mallet is approximately the size of a small bowling ball. A three-digit screen on the cabinet shows the current player's score, and later models have a screen showing the highest score of the day. The mallet is usually attached to the machine by a string to prevent it from being removed by customers.
+
+If the player does not hit the gopher within a certain time, or does not hit it hard enough, the gopher will go back into its hole and the score will not increase. The game starts off slowly, with most players hitting all the gophers that come out of their heads, but the speed gradually increases, the time between gophers coming out of their heads becomes shorter, and the number of gophers appearing at the same time increases. After a predetermined time limit, the game ends regardless of the player's skill. The final score depends on the number of gophers hit by the player.
